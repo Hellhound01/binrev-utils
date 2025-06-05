@@ -1,0 +1,11 @@
+{
+  "name": "binrev.binrev.utils",
+  "version": "0.0.3",
+  "displayName": "binrev.utils",
+  "description": "Unity utils library to simplify development.",
+  "author": {
+    "name": "Binary-Revolution",
+    "url": "https://Hellhound_01@bitbucket.org/Hellhound_01/utils.git"
+  },
+  "type": "library"
+}

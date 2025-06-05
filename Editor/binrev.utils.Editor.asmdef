@@ -1,0 +1,20 @@
+{
+    "name": "binrev.utils.Editor",
+    "rootNamespace": "binrev.utils.Editor",
+    "references": [
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:9e8cfefa232c8a943b9dc82b47a02d29",
+        "GUID:dd7b4120452c1864289c19a09c8a5eb7",
+        "GUID:4572c2fbb825748469d6b80d569cbf60",
+        "GUID:6a55a0fdfac08314fa2f5140d9ad95f8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

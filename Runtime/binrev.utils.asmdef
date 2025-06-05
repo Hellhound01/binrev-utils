@@ -1,0 +1,16 @@
+{
+    "name": "binrev.utils",
+    "rootNamespace": "binrev.utils",
+    "references": [
+        "GUID:dd7b4120452c1864289c19a09c8a5eb7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
